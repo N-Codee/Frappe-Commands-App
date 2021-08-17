@@ -1,5 +1,7 @@
  *************************************************************Creating a Custom App******************************************************************************
+ 1)after instaling ERPNext, create a custom app
+    $ bench new-app ['app name']
+    $ bench --site ['site name'] install-app ['your app name']
  
- $ bench new-app ['app name']
- $ bench --site ['site name'] install-app ['your app name']
- 
+2) we can modify our custom app in hooks.py['your app']
+    $ 
