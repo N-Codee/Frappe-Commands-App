@@ -1,1 +1,5 @@
-.egfsdf
+ *************************************************************Creating a Custom App******************************************************************************
+ 
+ $ bench new-app ['app name']
+ $ bench --site ['site name'] install-app ['your app name']
+ 
